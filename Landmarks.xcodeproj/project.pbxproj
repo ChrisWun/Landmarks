@@ -16,6 +16,7 @@
 		AAADA70B24E000C100053847 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAADA70A24E000C100053847 /* LandmarksTests.swift */; };
 		AAADA71624E000C100053847 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAADA71524E000C100053847 /* LandmarksUITests.swift */; };
 		AAADA72424E00B4800053847 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAADA72324E00B4800053847 /* CircleImage.swift */; };
+		AAADA72624E00CC500053847 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAADA72524E00CC500053847 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AAADA71524E000C100053847 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		AAADA71724E000C100053847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAADA72324E00B4800053847 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		AAADA72524E00CC500053847 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AAADA6F724E000C000053847 /* ContentView.swift */,
 				AAADA6F924E000C100053847 /* Assets.xcassets */,
 				AAADA72324E00B4800053847 /* CircleImage.swift */,
+				AAADA72524E00CC500053847 /* MapView.swift */,
 				AAADA6FE24E000C100053847 /* LaunchScreen.storyboard */,
 				AAADA70124E000C100053847 /* Info.plist */,
 				AAADA6FB24E000C100053847 /* Preview Content */,
@@ -272,6 +275,7 @@
 			files = (
 				AAADA6F424E000C000053847 /* AppDelegate.swift in Sources */,
 				AAADA72424E00B4800053847 /* CircleImage.swift in Sources */,
+				AAADA72624E00CC500053847 /* MapView.swift in Sources */,
 				AAADA6F624E000C000053847 /* SceneDelegate.swift in Sources */,
 				AAADA6F824E000C000053847 /* ContentView.swift in Sources */,
 			);
